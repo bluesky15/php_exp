@@ -1,8 +1,9 @@
+<!DOCTYPE HTML>
 <html>
 <head>
     <?php
-    include 'bootstrap.php';
-    include 'errolog.php';
+    include 'bootstrap_css.php';
+    include 'error_log.php';
     ?>
 </head>
 <body>
